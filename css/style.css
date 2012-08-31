@@ -1,6 +1,5 @@
 body {
-	background-image: url(../img/bg_body.png);
-	background-position: top center;
+	background-color: gray; 
 }
 
 .container {
